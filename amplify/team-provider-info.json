@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-yelpp-dev-133833-authRole",
+      "UnauthRoleArn": "arn:aws:iam::902425142046:role/amplify-yelpp-dev-133833-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::902425142046:role/amplify-yelpp-dev-133833-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-yelpp-dev-133833-deployment",
+      "UnauthRoleName": "amplify-yelpp-dev-133833-unauthRole",
+      "StackName": "amplify-yelpp-dev-133833",
+      "StackId": "arn:aws:cloudformation:us-east-1:902425142046:stack/amplify-yelpp-dev-133833/9d3e41a0-c6fa-11ed-8f98-0a3337c595a5",
+      "AmplifyAppId": "d1tb1wpobijaar"
+    },
+    "categories": {
+      "auth": {
+        "yelpp355e80db": {}
+      }
+    }
+  }
+}
